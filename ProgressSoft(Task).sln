@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgressSoft(Task)", "ProgressSoft(Task)\ProgressSoft(Task).csproj", "{EE59C1BC-55F1-4F27-951D-60EF2230485E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE59C1BC-55F1-4F27-951D-60EF2230485E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE59C1BC-55F1-4F27-951D-60EF2230485E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE59C1BC-55F1-4F27-951D-60EF2230485E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE59C1BC-55F1-4F27-951D-60EF2230485E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94F94AF0-A7D7-492D-B63F-F3F0D99267FF}
+	EndGlobalSection
+EndGlobal

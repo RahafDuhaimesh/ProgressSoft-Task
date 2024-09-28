@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProgressSoft(Task).props" />
+</Project>

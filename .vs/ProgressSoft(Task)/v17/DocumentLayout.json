@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\ProgressSoft(Task)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE59C1BC-55F1-4F27-951D-60EF2230485E}|ProgressSoft(Task)\\ProgressSoft(Task).csproj|c:\\users\\orange\\desktop\\progresssoft(task)\\progresssoft(task)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE59C1BC-55F1-4F27-951D-60EF2230485E}|ProgressSoft(Task)\\ProgressSoft(Task).csproj|solutionrelative:progresssoft(task)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE59C1BC-55F1-4F27-951D-60EF2230485E}|ProgressSoft(Task)\\ProgressSoft(Task).csproj|c:\\users\\orange\\desktop\\progresssoft(task)\\progresssoft(task)\\controllers\\businesscardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE59C1BC-55F1-4F27-951D-60EF2230485E}|ProgressSoft(Task)\\ProgressSoft(Task).csproj|solutionrelative:progresssoft(task)\\controllers\\businesscardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE59C1BC-55F1-4F27-951D-60EF2230485E}|ProgressSoft(Task)\\ProgressSoft(Task).csproj|c:\\users\\orange\\desktop\\progresssoft(task)\\progresssoft(task)\\dto\u0027s\\cardrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE59C1BC-55F1-4F27-951D-60EF2230485E}|ProgressSoft(Task)\\ProgressSoft(Task).csproj|solutionrelative:progresssoft(task)\\dto\u0027s\\cardrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE59C1BC-55F1-4F27-951D-60EF2230485E}|ProgressSoft(Task)\\ProgressSoft(Task).csproj|c:\\users\\orange\\desktop\\progresssoft(task)\\progresssoft(task)\\models\\businesscard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE59C1BC-55F1-4F27-951D-60EF2230485E}|ProgressSoft(Task)\\ProgressSoft(Task).csproj|solutionrelative:progresssoft(task)\\models\\businesscard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE59C1BC-55F1-4F27-951D-60EF2230485E}|ProgressSoft(Task)\\ProgressSoft(Task).csproj|c:\\users\\orange\\desktop\\progresssoft(task)\\progresssoft(task)\\progresssoft(task).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE59C1BC-55F1-4F27-951D-60EF2230485E}|ProgressSoft(Task)\\ProgressSoft(Task).csproj|solutionrelative:progresssoft(task)\\progresssoft(task).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE59C1BC-55F1-4F27-951D-60EF2230485E}|ProgressSoft(Task)\\ProgressSoft(Task).csproj|c:\\users\\orange\\desktop\\progresssoft(task)\\progresssoft(task)\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE59C1BC-55F1-4F27-951D-60EF2230485E}|ProgressSoft(Task)\\ProgressSoft(Task).csproj|solutionrelative:progresssoft(task)\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE59C1BC-55F1-4F27-951D-60EF2230485E}|ProgressSoft(Task)\\ProgressSoft(Task).csproj|c:\\users\\orange\\desktop\\progresssoft(task)\\progresssoft(task)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE59C1BC-55F1-4F27-951D-60EF2230485E}|ProgressSoft(Task)\\ProgressSoft(Task).csproj|solutionrelative:progresssoft(task)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE59C1BC-55F1-4F27-951D-60EF2230485E}|ProgressSoft(Task)\\ProgressSoft(Task).csproj|c:\\users\\orange\\desktop\\progresssoft(task)\\progresssoft(task)\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE59C1BC-55F1-4F27-951D-60EF2230485E}|ProgressSoft(Task)\\ProgressSoft(Task).csproj|solutionrelative:progresssoft(task)\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BusinessCard.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ProgressSoft(Task)\\ProgressSoft(Task)\\Models\\BusinessCard.cs",
+              "RelativeDocumentMoniker": "ProgressSoft(Task)\\Models\\BusinessCard.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ProgressSoft(Task)\\ProgressSoft(Task)\\Models\\BusinessCard.cs",
+              "RelativeToolTip": "ProgressSoft(Task)\\Models\\BusinessCard.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:04:30.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CardRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ProgressSoft(Task)\\ProgressSoft(Task)\\DTO\u0027s\\CardRequestDTO.cs",
+              "RelativeDocumentMoniker": "ProgressSoft(Task)\\DTO\u0027s\\CardRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ProgressSoft(Task)\\ProgressSoft(Task)\\DTO\u0027s\\CardRequestDTO.cs",
+              "RelativeToolTip": "ProgressSoft(Task)\\DTO\u0027s\\CardRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:04:25.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BusinessCardController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ProgressSoft(Task)\\ProgressSoft(Task)\\Controllers\\BusinessCardController.cs",
+              "RelativeDocumentMoniker": "ProgressSoft(Task)\\Controllers\\BusinessCardController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ProgressSoft(Task)\\ProgressSoft(Task)\\Controllers\\BusinessCardController.cs",
+              "RelativeToolTip": "ProgressSoft(Task)\\Controllers\\BusinessCardController.cs",
+              "ViewState": "AQIAACkBAAAAAAAAAAAswEEBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:01:32.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ProgressSoft(Task)\\ProgressSoft(Task)\\Program.cs",
+              "RelativeDocumentMoniker": "ProgressSoft(Task)\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ProgressSoft(Task)\\ProgressSoft(Task)\\Program.cs",
+              "RelativeToolTip": "ProgressSoft(Task)\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:00:10.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ProgressSoft(Task)\\ProgressSoft(Task)\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "ProgressSoft(Task)\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ProgressSoft(Task)\\ProgressSoft(Task)\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "ProgressSoft(Task)\\Models\\MyDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIA0wBEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:00:00.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProgressSoft(Task)",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ProgressSoft(Task)\\ProgressSoft(Task)\\ProgressSoft(Task).csproj",
+              "RelativeDocumentMoniker": "ProgressSoft(Task)\\ProgressSoft(Task).csproj",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ProgressSoft(Task)\\ProgressSoft(Task)\\ProgressSoft(Task).csproj",
+              "RelativeToolTip": "ProgressSoft(Task)\\ProgressSoft(Task).csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-28T17:03:27.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ProgressSoft(Task)\\ProgressSoft(Task)\\appsettings.json",
+              "RelativeDocumentMoniker": "ProgressSoft(Task)\\appsettings.json",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ProgressSoft(Task)\\ProgressSoft(Task)\\appsettings.json",
+              "RelativeToolTip": "ProgressSoft(Task)\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-28T17:00:22.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ProgressSoft(Task)\\ProgressSoft(Task)\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ProgressSoft(Task)\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ProgressSoft(Task)\\ProgressSoft(Task)\\appsettings.Development.json",
+              "RelativeToolTip": "ProgressSoft(Task)\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-28T17:17:33.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
